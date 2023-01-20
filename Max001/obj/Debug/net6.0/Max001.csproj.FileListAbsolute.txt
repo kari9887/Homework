@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/Homework/Max001/bin/Debug/net6.0/Max001
+/Users/macbook/Desktop/Homework/Max001/bin/Debug/net6.0/Max001.deps.json
+/Users/macbook/Desktop/Homework/Max001/bin/Debug/net6.0/Max001.runtimeconfig.json
+/Users/macbook/Desktop/Homework/Max001/bin/Debug/net6.0/Max001.dll
+/Users/macbook/Desktop/Homework/Max001/bin/Debug/net6.0/Max001.pdb
+/Users/macbook/Desktop/Homework/Max001/obj/Debug/net6.0/Max001.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/Homework/Max001/obj/Debug/net6.0/Max001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/Homework/Max001/obj/Debug/net6.0/Max001.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Homework/Max001/obj/Debug/net6.0/Max001.AssemblyInfo.cs
+/Users/macbook/Desktop/Homework/Max001/obj/Debug/net6.0/Max001.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Homework/Max001/obj/Debug/net6.0/Max001.dll
+/Users/macbook/Desktop/Homework/Max001/obj/Debug/net6.0/refint/Max001.dll
+/Users/macbook/Desktop/Homework/Max001/obj/Debug/net6.0/Max001.pdb
+/Users/macbook/Desktop/Homework/Max001/obj/Debug/net6.0/Max001.genruntimeconfig.cache
+/Users/macbook/Desktop/Homework/Max001/obj/Debug/net6.0/ref/Max001.dll
