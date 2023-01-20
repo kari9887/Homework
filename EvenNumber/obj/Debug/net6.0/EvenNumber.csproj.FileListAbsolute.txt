@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/Homework/EvenNumber/bin/Debug/net6.0/EvenNumber
+/Users/macbook/Desktop/Homework/EvenNumber/bin/Debug/net6.0/EvenNumber.deps.json
+/Users/macbook/Desktop/Homework/EvenNumber/bin/Debug/net6.0/EvenNumber.runtimeconfig.json
+/Users/macbook/Desktop/Homework/EvenNumber/bin/Debug/net6.0/EvenNumber.dll
+/Users/macbook/Desktop/Homework/EvenNumber/bin/Debug/net6.0/EvenNumber.pdb
+/Users/macbook/Desktop/Homework/EvenNumber/obj/Debug/net6.0/EvenNumber.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/Homework/EvenNumber/obj/Debug/net6.0/EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/Homework/EvenNumber/obj/Debug/net6.0/EvenNumber.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Homework/EvenNumber/obj/Debug/net6.0/EvenNumber.AssemblyInfo.cs
+/Users/macbook/Desktop/Homework/EvenNumber/obj/Debug/net6.0/EvenNumber.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Homework/EvenNumber/obj/Debug/net6.0/EvenNumber.dll
+/Users/macbook/Desktop/Homework/EvenNumber/obj/Debug/net6.0/refint/EvenNumber.dll
+/Users/macbook/Desktop/Homework/EvenNumber/obj/Debug/net6.0/EvenNumber.pdb
+/Users/macbook/Desktop/Homework/EvenNumber/obj/Debug/net6.0/EvenNumber.genruntimeconfig.cache
+/Users/macbook/Desktop/Homework/EvenNumber/obj/Debug/net6.0/ref/EvenNumber.dll
